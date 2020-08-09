@@ -1,0 +1,26 @@
+#txt{
+	text-align: center;
+}
+#divA{
+	width: 175px;
+	height: 50px;
+	background-color: blue;
+	color: white;
+	margin-left: 45%;
+}
+#btmA{
+	margin-left: 45%;
+}
+#inTxtA{
+	margin-left: 45%;
+}
+#divB{
+	width: 175px;
+	height: 50px;
+	background-color: blue;
+	color: white;
+	margin-left: 45%;
+}
+#inTxtB{
+	margin-left: 45%;
+}

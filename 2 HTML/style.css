@@ -1,0 +1,13 @@
+p{
+	color: red;
+}
+ol{
+	color: green;
+}
+ul{
+	color: blue;
+}
+#foto:hover{
+	width: 450px
+	transition:12s;
+}
